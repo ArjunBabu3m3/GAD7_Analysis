@@ -55,5 +55,6 @@ Rest of the results are very easy to read, as I have vizualized it as line graph
 Further Analysis is mentioned in the python file. For the tableau visualization please follow the following link:
 https://public.tableau.com/profile/arjun.babu4899#!/vizhome/NeuroFlow_Viz/Story1
 
-![alt text](/images/VIZ.mov)
+![alt text] https://user-images.githubusercontent.com/61573655/116028877-b5d79900-a61d-11eb-817e-797d61c55435.mov
+
 
