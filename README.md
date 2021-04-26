@@ -8,7 +8,7 @@
 
 
 ### Problem Statement
-* Here are the step I followed in the analysis of GAD-7 validated assessments data, which is
+Here are the step I followed in the analysis of GAD-7 validated assessments data, which is
 used to aid in the diagnosis of generalized anxiety disorder as well as screen for panic, social
 anxiety, and post traumatic stress disorder .
 The GAD-7 is a 7 question assessment that asks how often one has been bothered by the
