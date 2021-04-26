@@ -13,21 +13,12 @@ used to aid in the diagnosis of generalized anxiety disorder as well as screen f
 anxiety, and post traumatic stress disorder .
 The GAD-7 is a 7 question assessment that asks how often one has been bothered by the
 problems represented in each question over the last two weeks. The person then scores each
-question from 0 to 3 using the following scale:
-Question Score Question Label
-0 Not at all sure
-1 Several days
-2 Over half the days
-3 Nearly every Day
+question from 0 to 3.
+
 To score the GAD-7, the values in each question are summed to get the final score.
-The final scoring scale is as follows:
-GAD7 Score Severity Label
-0-5 Low to Minimal
-6-10 Mild
-11-15 Moderate
-16-21 Severe
 When screening for anxiety disorders, a recommended threshold for further clinical evaluation is
 a score of 10 or greater.
+
 During the course of treatment, patients are asked by their care provider to complete these
 validated assessments. The cadence at which these are given are typically monthly or twice a
 month but it can vary.
